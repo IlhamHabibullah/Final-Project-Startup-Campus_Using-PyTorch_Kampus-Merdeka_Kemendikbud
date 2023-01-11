@@ -1,0 +1,18 @@
+Narasi Final Project
+
+Perusahaan fashion ecommerce dengan pangsa pasar "Indonesian young urbans" -- pemuda-pemudi dengan rentang umur 15-35 tahun -- berdiri di Indonesia sejak awal tahun 2019 dengan nama Fashion Campus. Fashion Campus menyajikan katalog brand-brand lokal hingga internasional yang digandrungi anak muda. Karena banyak bekerja sama dengan brand lokal, setelah beroperasi selama satu tahun lebih, mereka berhasil memperoleh cukup banyak return customers dengan 8.000 pengguna aktif bulanan dan menerima lebih dari 100.000 pesanan setiap bulannya.
+
+Sejak pandemi menyerang pada tahun 2020, Fashion Campus merupakan salah satu perusahaan yang terdampak secara negatif. Ketika masyarakat dipaksa untuk diam di rumah dan semua berubah jadi serba digital, Fashion Campus yang tidak punya competitive advantage kalah bersaing dengan perusahaan kompetitor yang sudah lebih berkembang.
+
+Lisna dan Wira, sebagai salah satu tim pemasaran, diminta untuk melakukan riset pasar. Dalam risetnya, mereka menemukan bahwa selama pandemi ini muncul juga tren baru yang muncul di kalangan target market Fashion Campus. Ternyata, "Indonesian young urbans" mulai banyak melakukan praktik thrifting atau jual beli pakaian bekas. Dari penemuan ini, Lisna dan Wira mengajukan usulan ke bagian tim Business Development untuk mengembangkan bisnis model penjualan pakaian bekas yang masih layak pakai.
+
+Pengembangan bisnis model oleh tim Business Development ini nantinya akan dibantu oleh empat tim, yaitu tim Data Science, Tim UI/UX, Tim Artificial Intelligence dan Tim Backend. Lisna dan Wira juga sudah menyampaikan ke tim yang terlibat bahwa waktu pengembangan tidak banyak. Seluruh tim memiliki waktu 8 minggu untuk nantinya dipresentasikan ke jajaran petinggi Fashion Campus.
+
+
+Dear AI Team,
+
+Tim AI ditugaskan untuk mengembangkan fitur pencarian yang relevan terhadap produk yang hendak ditampilkan. Hal ini dikarenakan, pembeli seringkali memiliki keinginan berburu suatu produk pakaian ketika melihat postingan sosial media yang menunjukkan barang tersebut dikenakan oleh orang lain. Pembeli terkadang juga ingin mencari pengganti pakaian favoritnya yang hilang atau sudah terlalu usang. Sayangnya.. tidak mudah bagi pembeli untuk menemukan barang incarannya di platform Fashion Campus, yang masih melalui pencarian berbasis kata kunci.
+
+Tim AI perlu menyediakan fitur pencarian baru menggunakan gambar. Dengan meng-upload gambar dari barang incaran, pembeli dapat dengan mudah menemukan produk-produk yang mirip di platform Fashion Campus. Fitur pencarian menggunakan gambar ini akan sangat bermanfaat dan memanjakan pembeli dalam menemukan barang idamannya!
+
+Supervisor Fashion Campus untuk tim AI sudah menentukan timeline pengembangan fitur pencarian terbaru, tetapi tim AI diberi kebebasan dan fleksibilitas dalam pengerjaannya. Tujuan yang perlu tim AI capai adalah memberikan fitur pencarian terbaru menggunakan gambar untuk memanjakan pembeli di Fashion Campus menemukan barang yang diidam-idamkan. Make sure all team AI achieve this goal together!
